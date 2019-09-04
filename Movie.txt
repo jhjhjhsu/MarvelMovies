@@ -1,24 +1,24 @@
 [Film,USReleaseDate,USCAgross,OtherGross,WorldwideGross,Budget]
 [Ant-Man,17-Jul-15,180202163.00,339109802.00,519311965.00,$109.3 million]
 [Ant-Man and the Wasp	,	6-Jul-18	,	216648740.00	,	406025399.00	,	622674139.00	,	$162 million]
-[Avengers: Age of Ultron	,	1-May-15	,	459005868.00	,	946397826.00	,	1405403694.00	,	$365.5 million
-[Avengers: Endgame	,	26-Apr-19	,	858348658.00	,	1937901401.00	,	2796250059.00	,	$356 million
-[Avengers: Infinity War	,	27-Apr-18	,	678815482.00	,	1369544272.00	,	2048359754.00	,	$316–400 million
-[Black Panther	,	16-Feb-18	,	700059566.00	,	646853595.00	,	1346913161.00	,	$200 million
-[Captain America: Civil War	,	6-May-16	,	408084349.00	,	745220146.00	,	1153304495.00	,	$230 million
-[Captain America: The First Avenger	,	22-Jul-11	,	176654505.00	,	193915269.00	,	370569774.00	,	$140 million
-[Captain America: The Winter Soldier	,	4-Apr-14	,	259766572.00	,	454497695.00	,	714264267.00	,	$177 million
-[Captain Marvel	,	8-Mar-19	,	426829839.00	,	701444955.00	,	1128274794.00	,	$150–175 million
-[Doctor Strange	,	4-Nov-16	,	232641920.00	,	445076475.00	,	677718395.00	,	$165 million
-[Guardians of the Galaxy	,	1-Aug-14	,	333176600.00	,	440152029.00	,	773328629.00	,	$195.9 million
-[Guardians of the Galaxy Vol. 2	,	5-May-17	,	389813101.00	,	473942950.00	,	863756051.00	,	$200 million
-[Iron Man	,	2-May-08	,	318412101.00	,	266762121.00	,	585174222.00	,	$140 million
-[Iron Man 2	,	7-May-10	,	312433331.00	,	311500000.00	,	623933331.00	,	$200 million
-[Iron Man 3	,	3-May-13	,	409013994.00	,	805797258.00	,	1214811252.00	,	$178.4 million
-[Marvel's The Avengers	,	4-May-12	,	623357910.00	,	895455078.00	,	1518812988.00	,	$220 million
-[Spider-Man: Far From Home	,	2-Jul-19	,	386504764.00	,	738231077.00	,	1124735841.00	,	$160 million
-[Spider-Man: Homecoming	,	7-Jul-17	,	334201140.00	,	545965784.00	,	880166924.00	,	$175 million
-[The Incredible Hulk	,	13-Jun-08	,	134806913.00	,	128620638.00	,	263427551.00	,	$150 million
-[Thor	,	6-May-11	,	181030624.00	,	268295994.00	,	449326618.00	,	$150 million
-[Thor: Ragnarok	,	3-Nov-17	,	315058289.00	,	538918837.00	,	853977126.00	,	$180 million
-[Thor: The Dark World	,	8-Nov-13	,	206362140.00	,	438209262.00	,	644571402.00	,	$152.7 million
+[Avengers: Age of Ultron	,	1-May-15	,	459005868.00	,	946397826.00	,	1405403694.00	,	$365.5 million]
+[Avengers: Endgame	,	26-Apr-19	,	858348658.00	,	1937901401.00	,	2796250059.00	,	$356 million]
+[Avengers: Infinity War	,	27-Apr-18	,	678815482.00	,	1369544272.00	,	2048359754.00	,	$316–400 million]
+[Black Panther	,	16-Feb-18	,	700059566.00	,	646853595.00	,	1346913161.00	,	$200 million]
+[Captain America: Civil War	,	6-May-16	,	408084349.00	,	745220146.00	,	1153304495.00	,	$230 million]
+[Captain America: The First Avenger	,	22-Jul-11	,	176654505.00	,	193915269.00	,	370569774.00	,	$140 million]
+[Captain America: The Winter Soldier	,	4-Apr-14	,	259766572.00	,	454497695.00	,	714264267.00	,	$177 million]
+[Captain Marvel	,	8-Mar-19	,	426829839.00	,	701444955.00	,	1128274794.00	,	$150–175 million]
+[Doctor Strange	,	4-Nov-16	,	232641920.00	,	445076475.00	,	677718395.00	,	$165 million]
+[Guardians of the Galaxy	,	1-Aug-14	,	333176600.00	,	440152029.00	,	773328629.00	,	$195.9 million]
+[Guardians of the Galaxy Vol. 2	,	5-May-17	,	389813101.00	,	473942950.00	,	863756051.00	,	$200 million]
+[Iron Man	,	2-May-08	,	318412101.00	,	266762121.00	,	585174222.00	,	$140 million]
+[Iron Man 2	,	7-May-10	,	312433331.00	,	311500000.00	,	623933331.00	,	$200 million]
+[Iron Man 3	,	3-May-13	,	409013994.00	,	805797258.00	,	1214811252.00	,	$178.4 million]
+[Marvel's The Avengers	,	4-May-12	,	623357910.00	,	895455078.00	,	1518812988.00	,	$220 million]
+[Spider-Man: Far From Home	,	2-Jul-19	,	386504764.00	,	738231077.00	,	1124735841.00	,	$160 million]
+[Spider-Man: Homecoming	,	7-Jul-17	,	334201140.00	,	545965784.00	,	880166924.00	,	$175 million]
+[The Incredible Hulk	,	13-Jun-08	,	134806913.00	,	128620638.00	,	263427551.00	,	$150 million]
+[Thor	,	6-May-11	,	181030624.00	,	268295994.00	,	449326618.00	,	$150 million]
+[Thor: Ragnarok	,	3-Nov-17	,	315058289.00	,	538918837.00	,	853977126.00	,	$180 million]
+[Thor: The Dark World	,	8-Nov-13	,	206362140.00	,	438209262.00	,	644571402.00	,	$152.7 million]
